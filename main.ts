@@ -18,5 +18,5 @@ let gmap = 0
 basic.showString("Hello")
 gmap = 0
 first_angle = 90
-second_angle = 90
+second_angle = 180
 third_angle = 90
